@@ -29,6 +29,7 @@
       "minecraft:stony_shore": "2025-06-16 03:05:24 +0000",
       "minecraft:cold_ocean": "2025-06-16 03:05:29 +0000",
       "minecraft:forest": "2025-06-16 03:01:24 +0000",
+      "minecraft:flower_forest": "2025-06-16 03:25:34 +0000",
       "minecraft:meadow": "2025-06-16 03:23:03 +0000",
       "minecraft:plains": "2025-06-05 23:56:54 +0000"
     },
@@ -139,6 +140,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-06-16 03:01:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-06-16 03:26:09 +0000"
     },
     "done": true
   },
@@ -586,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-16 03:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-16 03:02:54 +0000"
@@ -829,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-16 03:32:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-06-16 03:01:56 +0000"
@@ -859,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-16 03:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-16 03:20:44 +0000"
@@ -874,6 +899,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2025-06-16 03:01:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-06-16 03:32:43 +0000"
     },
     "done": true
   },
@@ -1669,6 +1700,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-06-16 03:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 03:12:13 +0000"
@@ -1804,7 +1841,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-16 03:22:28 +0000",
-      "cooked_mutton": "2025-06-16 03:07:34 +0000"
+      "cooked_mutton": "2025-06-16 03:07:34 +0000",
+      "bread": "2025-06-16 03:35:02 +0000"
     },
     "done": false
   },
@@ -1823,6 +1861,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-16 03:32:43 +0000"
     },
     "done": true
   },
@@ -1955,6 +1999,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-06-16 03:32:47 +0000"
     },
     "done": true
   },
