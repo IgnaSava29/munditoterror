@@ -2891,19 +2891,19 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-21 02:03:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-21 02:03:46 +0000"
+      "has_salmon": "2025-06-21 01:55:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-21 01:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-21 01:55:08 +0000"
     },
@@ -2921,21 +2921,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_salmon": "2025-06-21 01:55:08 +0000"
+      "minecraft:crimson_forest": "2025-06-21 02:03:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-21 02:03:46 +0000"
     },
     "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-21 02:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-21 01:55:08 +0000"
     },
     "done": true
   },
