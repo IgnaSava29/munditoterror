@@ -457,3 +457,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 02:34:26.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [21Jun2025 02:34:26.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [21Jun2025 02:34:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> ws
+[21Jun2025 02:40:00.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Spectator Mode]
+[21Jun2025 02:40:05.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:40:32.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=88, z=861} BlockPos{x=-127, y=88, z=861}
+[21Jun2025 02:41:25.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=89, z=859} BlockPos{x=-127, y=88, z=860}
+[21Jun2025 02:42:28.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[21Jun2025 02:42:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[21Jun2025 02:42:32.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=92, z=811} BlockPos{x=-19, y=90, z=812}
+[21Jun2025 02:42:34.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=92, z=800} BlockPos{x=-19, y=90, z=800}
+[21Jun2025 02:47:35.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
+[21Jun2025 02:47:35.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
