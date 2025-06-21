@@ -1,620 +1,148 @@
-[18Jun2025 00:00:25.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:00:31.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:00:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> matame
-[18Jun2025 00:00:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> luciano unete al meet q mando gabby
-[18Jun2025 00:00:43.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> XD
-[18Jun2025 00:00:49.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> matamne
-[18Jun2025 00:00:59.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:01:01.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> matamne
-[18Jun2025 00:01:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> matame
-[18Jun2025 00:01:04.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Itz_Jusebg_FpF
-[18Jun2025 00:01:06.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:01:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> ty
-[18Jun2025 00:01:17.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:01:25.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:01:37.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:01:51.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:02:06.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:02:22.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:03:00.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF hit the ground too hard
-[18Jun2025 00:03:08.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:03:21.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:03:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Alternate
-[18Jun2025 00:03:58.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was slain by Alternate
-[18Jun2025 00:04:03.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:15.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:18.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:22.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:04:23.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:24.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:24.447] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:04:25.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:29.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:04:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:34.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:36.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:37.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:40.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:41.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:43.002] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:43.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-346, y=121, z=686}
-[18Jun2025 00:04:43.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:43.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:04:43.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:44.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:04:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:52.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:04:53.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:04:54.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:04:57.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:05:04.597] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:07.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:05:08.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:05:08.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:05:08.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:11.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:19.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:05:21.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:05:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> o
-[18Jun2025 00:05:26.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:05:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> q ha pasao
-[18Jun2025 00:05:27.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:33.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:05:37.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:38.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:40.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:05:41.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:43.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:05:43.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> xdd
-[18Jun2025 00:05:47.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:05:54.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:06:00.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> oe mira el chat
-[18Jun2025 00:06:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> pura llena de muertes de gaby
-[18Jun2025 00:06:11.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:06:11.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 00:06:11.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:06:19.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:06:25.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> YAGANE
-[18Jun2025 00:06:26.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:06:26.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:06:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> AAJJAJAJAJA
-[18Jun2025 00:06:29.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:06:39.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> Ya gane "desaparecio pq le dio pena"
-[18Jun2025 00:06:53.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:07:05.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:07:06.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:07:17.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:07:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:07:47.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:09:35.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:09:35.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:09:37.397] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:09:44.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:09:51.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:15.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:23.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:34.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:10:35.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:35.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:35.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:40.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:45.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:51.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:10:53.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:11:00.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:11:08.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:11:14.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:11:27.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:11:41.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:11:53.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:12:07.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:12:23.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:12:40.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:12:45.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:12:56.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:13:17.804] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:13:22.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:13:28.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:13:31.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:13:38.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:13:41.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:13:43.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:14:03.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:14:06.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:14:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 has made the advancement [The Silhouette]
-[18Jun2025 00:14:45.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:14:45.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:14:47.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Silhouette
-[18Jun2025 00:14:49.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:15:07.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:15:14.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:15:34.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:15:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has completed the challenge [Back To Hell]
-[18Jun2025 00:16:03.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:16:05.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:16:15.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:16:35.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:17:05.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:17:06.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:17:13.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:17:18.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:17:25.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:17:35.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:17:40.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 has made the advancement [The Silhouette]
-[18Jun2025 00:17:52.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Silhouette
-[18Jun2025 00:18:02.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
-[18Jun2025 00:18:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
-[18Jun2025 00:18:17.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zz?
-[18Jun2025 00:18:22.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzz
-[18Jun2025 00:18:23.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:18:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:18:23.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:18:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:18:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:18:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:18:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 00:18:41.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:41333] logged in with entity id 30844 at (-452.3321408437635, 70.0, 309.51016620540145)
-[18Jun2025 00:18:41.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
-[18Jun2025 00:18:46.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:18:49.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:18:51.797] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:18:58.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
-[18Jun2025 00:18:58.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
-[18Jun2025 00:19:05.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:07.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:49271] logged in with entity id 31318 at (-462.49606696196076, 69.49520087700593, 351.11289066341556)
-[18Jun2025 00:19:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
-[18Jun2025 00:19:08.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[18Jun2025 00:19:12.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:19.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:20.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:22.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:30.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:19:35.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[18Jun2025 00:19:44.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:19:58.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:20:04.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:20:14.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:20:14.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:20:20.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:20:25.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:20:29.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:20:31.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:20:43.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:21:14.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:21:38.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:22:00.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:22:07.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:22:37.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:22:42.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:01.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:17.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:40.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:40.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:23:41.597] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:41.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:23:52.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:56.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:56.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:57.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:23:58.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:23:59.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:24:00.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:24:04.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:24:27.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:25:02.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:25:08.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:25:19.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:25:34.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:25:37.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:25:57.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:26:02.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:26:03.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:27:17.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-483, y=69, z=476} BlockPos{x=-484, y=67, z=475}
-[18Jun2025 00:27:17.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-483, y=69, z=476} BlockPos{x=-484, y=67, z=475}
-[18Jun2025 00:27:19.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:27:22.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:27:36.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:27:53.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:28:27.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-344, y=120, z=652} BlockPos{x=-344, y=118, z=651}
-[18Jun2025 00:28:27.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-344, y=120, z=652} BlockPos{x=-344, y=118, z=651}
-[18Jun2025 00:28:27.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-345, y=120, z=653} BlockPos{x=-344, y=118, z=651}
-[18Jun2025 00:28:40.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:28:50.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:28:53.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:29:06.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:29:12.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzx
-[18Jun2025 00:29:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:29:13.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:29:13.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:29:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:29:13.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:29:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:29:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> zzz
-[18Jun2025 00:29:16.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:16.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:16.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:17.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:17.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:29:18.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Kicked for spamming
-[18Jun2025 00:29:18.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
-[18Jun2025 00:29:24.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:29:25.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:36935] logged in with entity id 36817 at (-344.5, 120.0, 687.5)
-[18Jun2025 00:29:25.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
-[18Jun2025 00:29:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[18Jun2025 00:30:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:20.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:21.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:30:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:23.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:23.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:23.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:24.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:30:35.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:30:45.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:30:49.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:30:51.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:30:54.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:30:58.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Alternate
-[18Jun2025 00:31:20.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:31:23.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:31:56.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:31:59.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:32:21.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:32:55.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:33:18.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:33:19.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:33:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 died because of Vapor
-[18Jun2025 00:34:09.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:34:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Suit Up]
-[18Jun2025 00:35:00.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 has made the advancement [Hunt and Gather]
-[18Jun2025 00:35:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Isn't It Iron Pick]
-[18Jun2025 00:35:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by ranma_158
-[18Jun2025 00:35:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by ranma_158
-[18Jun2025 00:36:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was slain by Silhouette
-[18Jun2025 00:36:26.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:36:27.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:36:43.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:36:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Im watching you
-[18Jun2025 00:36:56.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:37:15.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> mientes
-[18Jun2025 00:37:20.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:37:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by ranma_158
-[18Jun2025 00:38:10.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:38:14.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:39:03.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:39:04.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:39:15.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:39:18.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:39:24.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:39:42.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:39:57.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:40:00.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:40:01.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:40:54.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:40:54.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:41:07.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 00:41:07.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:41:17.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:41:19.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:41:19.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:41:28.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 00:41:28.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 00:41:28.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 00:41:28.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 00:41:30.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> zzzzzz
-[18Jun2025 00:41:40.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzz
-[18Jun2025 00:41:40.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:41:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:41:40.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:41:40.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:41:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:41:47.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:41:51.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:41:51.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:41:51.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 00:41:51.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:41:52.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:41:52.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 died because of Vapor
-[18Jun2025 00:41:56.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Alternate
-[18Jun2025 00:42:06.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:06.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:07.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:08.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Alternate
-[18Jun2025 00:42:24.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:26.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:26.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:38.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:43.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:47.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:42:56.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:43:32.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:43:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was slain by Cave Dweller
-[18Jun2025 00:43:45.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:43:45.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:43:46.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:43:50.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:43:56.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:43:58.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:44:01.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:44:02.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:44:17.803] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:44:40.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:44:40.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:44:53.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:45:01.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:45:06.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 00:45:10.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:45:17.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:45:17.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:45:22.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:45:23.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:45:26.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:45:31.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:45:46.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:45:51.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:00.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:46:00.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:14.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:19.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:46:19.834] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:31.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:36.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:45.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:54.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:46:55.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> -375 121 769
-[18Jun2025 00:46:59.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:47:02.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:47:03.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:47:05.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:47:06.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:47:08.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 00:47:08.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:47:22.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:47:28.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:47:31.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:12.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:12.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:21.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:24.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:33.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:38.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:39.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:48:39.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:48:51.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:49:02.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:49:57.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:04.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:50:15.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:17.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:50:17.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:24.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:33.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:34.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:36.397] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:50:43.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:50:58.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:51:10.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:51:14.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:51:36.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:51:40.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:51:43.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:51:58.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:51:58.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 00:52:12.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:52:45.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 00:52:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> zzz
-[18Jun2025 00:52:55.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:52:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:52:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:52:55.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:52:56.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:53:57.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:54:04.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Disconnected
-[18Jun2025 00:54:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
-[18Jun2025 00:54:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> zzz
-[18Jun2025 00:54:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:10.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:10.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:10.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:10.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:10.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:11.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 00:54:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzz
-[18Jun2025 00:54:28.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:54:28.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:54:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:54:28.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 00:54:50.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:54:57.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:54:59.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 00:55:15.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 00:55:15.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:55:15.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabyxd_1401[/127.196.186.139:44309] logged in with entity id 48262 at (78.30000001192093, 63.0, 738.6999999880791)
-[18Jun2025 00:55:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 joined the game
-[18Jun2025 00:55:43.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[18Jun2025 00:56:01.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:56:06.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:56:12.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:57:08.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:57:10.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:57:33.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:57:37.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:57:49.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:57:55.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:58:10.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:58:19.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:58:31.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:58:41.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
-[18Jun2025 00:58:44.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:58:45.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:58:58.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:11.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 00:59:11.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:18.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:23.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 00:59:24.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:26.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:27.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:32.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:33.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:34.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:36.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:38.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:59:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:44.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:45.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:45.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 00:59:47.105] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 00:59:58.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:00:01.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 01:00:01.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 01:00:04.397] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
-[18Jun2025 01:00:04.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 01:00:04.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:00:11.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:00:14.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:00:19.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:00:25.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 01:00:31.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:02:13.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 01:03:05.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 01:03:12.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:03:12.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:03:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Hunt and Gather]
-[18Jun2025 01:04:19.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:04:21.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:04:32.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:06:04.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzz
-[18Jun2025 01:06:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:06:04.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:06:04.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:06:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:06:05.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:06:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:06:06.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> az
-[18Jun2025 01:06:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:06.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:06.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:07.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:07.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:07.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:06:45.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:07:05.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 has made the advancement [Hunt and Gather]
-[18Jun2025 01:07:07.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:07:11.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:07:18.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:07:41.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 01:09:32.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 01:09:59.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:10:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> zz
-[18Jun2025 01:10:28.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 01:10:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> z
-[18Jun2025 01:10:28.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyxd_1401> zz
-[18Jun2025 01:11:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:11:30.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 01:11:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzz
-[18Jun2025 01:11:41.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:42.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:45.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzz
-[18Jun2025 01:11:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:45.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:11:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[18Jun2025 01:12:15.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:12:51.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
-[18Jun2025 01:13:08.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:13:18.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:13:20.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:13:27.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:14:26.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 01:14:48.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:15:02.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-374, y=119, z=696} BlockPos{x=-374, y=117, z=697}
-[18Jun2025 01:15:03.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=119, z=699} BlockPos{x=-373, y=117, z=698}
-[18Jun2025 01:15:20.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:20.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> zz
-[18Jun2025 01:15:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:21.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:21.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:21.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> z
-[18Jun2025 01:15:54.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Disconnected
-[18Jun2025 01:15:54.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
-[18Jun2025 01:15:56.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 01:16:33.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 01:17:15.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:17:27.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 01:17:29.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 01:17:50.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was slain by The Damned
-[18Jun2025 01:17:54.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 01:17:55.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 has made the advancement [Suit Up]
-[18Jun2025 01:17:55.597] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:18:14.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 01:18:41.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
-[18Jun2025 01:18:41.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
-[18Jun2025 01:18:49.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:34075] logged in with entity id 55516 at (-340.10173192841245, 120.0, 688.4558387802082)
-[18Jun2025 01:18:49.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
-[18Jun2025 01:18:52.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
-[18Jun2025 01:18:52.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
-[18Jun2025 01:18:52.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
-[18Jun2025 01:19:17.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[18Jun2025 01:19:41.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:19:44.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:21:28.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:21:31.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:22:59.105] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
-[18Jun2025 01:22:59.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:23:10.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF died because of Vapor
-[18Jun2025 01:23:14.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:23:14.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 01:24:39.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
-[18Jun2025 01:25:14.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
-[18Jun2025 01:25:38.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
-[18Jun2025 01:26:19.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
-[18Jun2025 01:26:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
-[18Jun2025 01:26:21.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
-[18Jun2025 01:26:21.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
-[18Jun2025 01:26:25.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[18Jun2025 01:26:25.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Jun2025 01:26:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Jun2025 01:26:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Jun2025 01:26:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18Jun2025 01:26:25.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18Jun2025 01:26:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18Jun2025 01:26:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18Jun2025 01:26:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Jun2025 01:26:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Jun2025 01:26:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18Jun2025 01:26:25.985] [Server thread/INFO] [Framework/]: Unloading server configs...
-[18Jun2025 01:26:25.986] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[18Jun2025 01:26:25.989] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Jun2025 00:48:20.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Jun2025 00:48:20.024] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[21Jun2025 00:48:21.756] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Jun2025 00:48:21.875] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/munditoterror/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Jun2025 00:48:22.399] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/munditoterror/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jun2025 00:48:22.403] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/munditoterror/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jun2025 00:48:22.408] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/munditoterror/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jun2025 00:48:22.410] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/munditoterror/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jun2025 00:48:22.994] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 48 dependencies adding them to mods collection
+[21Jun2025 00:48:25.829] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Jun2025 00:48:25.846] [main/ERROR] [mixin/]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
+[21Jun2025 00:48:25.862] [main/ERROR] [mixin/]: Mixin config hamsters.mixins.json does not specify "minVersion" property
+[21Jun2025 00:48:25.908] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[21Jun2025 00:48:25.910] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[21Jun2025 00:48:25.952] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
+[21Jun2025 00:48:25.954] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
+[21Jun2025 00:48:26.012] [main/INFO] [net.fabricmc.loader.impl.bootstrap.FabricLoaderBootstrap/]: Propagating FML mod list to Fabric Loader
+[21Jun2025 00:48:26.026] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Jun2025 00:48:26.108] [main/WARN] [mixin/]: Reference map 'hamsters.refmap.json' for hamsters.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Jun2025 00:48:27.036] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[21Jun2025 00:48:27.037] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[21Jun2025 00:48:27.037] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin
+[21Jun2025 00:48:27.039] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[21Jun2025 00:48:27.039] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[21Jun2025 00:48:27.039] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor
+[21Jun2025 00:48:27.648] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[21Jun2025 00:48:31.619] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zdi000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21Jun2025 00:48:36.999] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfk000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21Jun2025 00:48:39.045] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Jun2025 00:48:39.046] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Jun2025 00:48:41.337] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[21Jun2025 00:48:41.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Jun2025 00:48:42.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[21Jun2025 00:48:42.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[21Jun2025 00:48:42.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[21Jun2025 00:48:42.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[21Jun2025 00:48:42.427] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23140!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23140!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[21Jun2025 00:48:44.218] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Jun2025 00:48:46.124] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/munditoterror/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
+[21Jun2025 00:48:46.124] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/munditoterror/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
+[21Jun2025 00:48:49.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
+[21Jun2025 00:48:49.320] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2233 advancements
+[21Jun2025 00:48:50.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Jun2025 00:48:50.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Jun2025 00:48:50.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Jun2025 00:48:50.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Jun2025 00:48:50.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Jun2025 00:48:50.673] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Jun2025 00:48:50.774] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Jun2025 00:48:50.775] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Jun2025 00:48:50.776] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Jun2025 00:48:50.776] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Jun2025 00:48:50.801] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[21Jun2025 00:48:50.803] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[21Jun2025 00:48:50.862] [Server thread/INFO] [Framework/]: Loading server configs...
+[21Jun2025 00:48:50.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Jun2025 00:48:55.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Jun2025 00:48:57.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:57.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:57.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:57.783] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:57.786] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:57.789] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:58.046] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:58.530] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:59.662] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:48:59.667] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:49:00.049] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:49:00.527] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:49:01.090] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:49:01.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jun2025 00:49:02.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[21Jun2025 00:49:02.528] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[21Jun2025 00:49:03.045] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8019 ms
+[21Jun2025 00:49:03.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.250s)! For help, type "help"
+[21Jun2025 00:49:03.084] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Jun2025 00:49:16.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:51009] logged in with entity id 98 at (-341.63183779094305, 120.0, 686.156379984722)
+[21Jun2025 00:49:16.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
+[21Jun2025 00:49:18.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[21Jun2025 00:49:28.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 00:49:39.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.240.170.199:40271] logged in with entity id 329 at (-336.25516184699796, 120.0, 688.1295615460248)
+[21Jun2025 00:49:39.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[21Jun2025 00:49:43.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabyxd_1401[/127.196.186.139:45887] logged in with entity id 330 at (-344.5, 120.5625, 686.5)
+[21Jun2025 00:49:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 joined the game
+[21Jun2025 00:49:46.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 00:50:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 00:50:11.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by ranma_158
+[21Jun2025 00:50:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 00:50:16.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 00:50:25.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 00:50:32.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 00:50:34.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 00:51:26.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 00:51:26.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 00:51:28.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
+[21Jun2025 00:52:05.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 00:52:13.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 00:52:18.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 00:52:32.289] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 00:52:48.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 00:53:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was killed by magic
+[21Jun2025 00:53:14.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 00:53:29.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was killed by magic
+[21Jun2025 00:53:29.865] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 00:53:33.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was killed by magic
+[21Jun2025 00:53:56.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 00:54:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzz
+[21Jun2025 00:54:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:54:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:54:08.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:54:08.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:54:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:54:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:54:39.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 has made the advancement [Suit Up]
+[21Jun2025 00:55:18.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzzzzzz
+[21Jun2025 00:55:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:55:19.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:55:19.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:55:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:55:19.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:55:19.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[21Jun2025 00:55:30.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 00:55:37.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
+[21Jun2025 00:55:46.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
+[21Jun2025 00:55:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
+[21Jun2025 00:56:01.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:36313] logged in with entity id 1568 at (-340.3304859463557, 120.0, 688.1590735985023)
+[21Jun2025 00:56:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
+[21Jun2025 00:56:12.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 00:56:29.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 00:56:32.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 00:56:32.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 00:56:40.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 00:56:43.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 00:57:17.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
