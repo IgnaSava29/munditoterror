@@ -397,3 +397,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 02:08:36.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
 [21Jun2025 02:08:38.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
 [21Jun2025 02:08:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Peaceful]
+[21Jun2025 02:10:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Hard]
+[21Jun2025 02:10:56.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:11:08.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:11:12.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:11:15.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 02:12:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was shot by Skeleton
+[21Jun2025 02:12:20.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:12:38.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 02:12:43.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 02:12:47.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 02:13:10.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:13:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Preacher
+[21Jun2025 02:13:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Preacher
+[21Jun2025 02:13:33.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
+[21Jun2025 02:13:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:14:02.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:14:15.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
+[21Jun2025 02:14:18.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by The Damned
+[21Jun2025 02:14:50.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:14:53.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 02:15:05.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was shot by Skeleton
+[21Jun2025 02:15:12.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:15:22.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 02:16:14.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF died because of Spider
+[21Jun2025 02:16:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was shot by Skeleton
+[21Jun2025 02:16:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was slain by The Damned
+[21Jun2025 02:16:59.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
+[21Jun2025 02:17:02.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:17:03.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 02:17:10.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:17:24.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:17:31.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 02:17:34.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 02:17:38.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Peaceful]
+[21Jun2025 02:18:07.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:25:39.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can you see me
+[21Jun2025 02:26:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can you see me
+[21Jun2025 02:28:47.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Timed out
+[21Jun2025 02:28:47.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
