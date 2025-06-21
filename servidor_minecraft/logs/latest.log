@@ -469,3 +469,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 02:47:35.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
 [21Jun2025 02:50:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Disconnected
 [21Jun2025 02:50:45.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
+[21Jun2025 03:12:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jun2025 03:12:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 03:12:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 03:12:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 03:12:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 03:12:27.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 03:12:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 03:12:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 03:12:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 03:12:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 03:12:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 03:12:28.030] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Jun2025 03:12:28.031] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[21Jun2025 03:12:28.033] [Server thread/INFO] [Framework/]: Finished unloading server configs
