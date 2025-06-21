@@ -209,3 +209,83 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 01:16:00.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
 [21Jun2025 01:16:43.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
 [21Jun2025 01:18:29.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 01:18:48.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:18:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by The Damned
+[21Jun2025 01:18:58.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:19:07.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 01:19:15.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 01:19:29.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 01:20:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 was slain by Preacher
+[21Jun2025 01:20:27.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 01:21:00.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:21:03.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:21:05.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:21:05.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 01:21:07.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 01:21:43.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 01:21:51.888] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:22:24.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:22:55.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:23:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Itz_Jusebg_FpF a server operator
+[21Jun2025 01:23:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:23:12.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:23:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Teleported gabyxd_1401 to Itz_Jusebg_FpF]
+[21Jun2025 01:23:32.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
+[21Jun2025 01:23:32.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Teleported gabyxd_1401 to Itz_Jusebg_FpF]
+[21Jun2025 01:23:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Spectator Mode]
+[21Jun2025 01:23:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Teleported gabyxd_1401 to Itz_Jusebg_FpF]
+[21Jun2025 01:23:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:23:52.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 was kicked for floating too long!
+[21Jun2025 01:23:52.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Disconnected
+[21Jun2025 01:23:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
+[21Jun2025 01:23:52.645] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jun2025 01:23:56.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Spectator Mode]
+[21Jun2025 01:24:08.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabyxd_1401[/127.196.186.139:55607] logged in with entity id 12312 at (-332.0774486594711, 126.42016520066431, 548.4314895869845)
+[21Jun2025 01:24:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 joined the game
+[21Jun2025 01:24:09.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Teleported gabyxd_1401 to Itz_Jusebg_FpF]
+[21Jun2025 01:24:17.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:24:19.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 was kicked for floating too long!
+[21Jun2025 01:24:19.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Flying is not enabled on this server
+[21Jun2025 01:24:19.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
+[21Jun2025 01:24:22.888] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:23.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:26.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabyxd_1401[/127.196.186.139:37743] logged in with entity id 12440 at (-321.77694575515704, 144.6518604825541, 534.5777652421758)
+[21Jun2025 01:24:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 joined the game
+[21Jun2025 01:24:28.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:29.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 fell from a high place
+[21Jun2025 01:24:33.389] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:33.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:24:34.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Teleported gabyxd_1401 to Itz_Jusebg_FpF]
+[21Jun2025 01:24:36.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 01:24:54.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 01:25:07.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set spawn point to -340, 122, 696 [0.0] in minecraft:overworld for 2 players]
+[21Jun2025 01:25:16.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Peaceful]
+[21Jun2025 01:25:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Spectator Mode]
+[21Jun2025 01:25:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:25:53.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ranma_158[/127.174.227.186:34089] logged in with entity id 13011 at (-784.9564945294933, 76.0, 884.5675317670747)
+[21Jun2025 01:25:53.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 joined the game
+[21Jun2025 01:26:21.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 01:27:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:29:27.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> -324 715
+[21Jun2025 01:29:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:29:54.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:29:57.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:31:21.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:31:37.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:32:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:32:29.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:33:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:33:59.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:34:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:34:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:34:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:34:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:34:34.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:35:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:35:18.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:35:22.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:35:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hello
+[21Jun2025 01:38:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:38:35.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
