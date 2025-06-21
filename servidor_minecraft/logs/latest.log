@@ -289,3 +289,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 01:35:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hello
 [21Jun2025 01:38:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
 [21Jun2025 01:38:35.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:41:45.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:41:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:42:13.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Timed out
+[21Jun2025 01:42:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
+[21Jun2025 01:42:27.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabyxd_1401[/127.196.186.139:49539] logged in with entity id 16462 at (-335.811110302591, 120.0, 686.3000000119209)
+[21Jun2025 01:42:27.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 joined the game
+[21Jun2025 01:42:55.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[21Jun2025 01:44:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> oe
+[21Jun2025 01:44:53.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ranma_158> el mit
+[21Jun2025 01:46:45.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:46:55.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:47:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:47:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:47:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [A Glorious Feast]
