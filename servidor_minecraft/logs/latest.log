@@ -467,3 +467,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 02:42:34.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=92, z=800} BlockPos{x=-19, y=90, z=800}
 [21Jun2025 02:47:35.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ranma_158 lost connection: Disconnected
 [21Jun2025 02:47:35.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 left the game
+[21Jun2025 02:50:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabyxd_1401 lost connection: Disconnected
+[21Jun2025 02:50:45.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 left the game
