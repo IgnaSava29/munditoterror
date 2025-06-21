@@ -303,3 +303,97 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jun2025 01:47:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
 [21Jun2025 01:47:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
 [21Jun2025 01:47:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [A Glorious Feast]
+[21Jun2025 01:50:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Hard]
+[21Jun2025 01:50:05.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 01:50:09.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:50:11.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 01:50:22.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:50:22.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 01:50:22.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:50:40.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:50:54.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:51:04.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 01:51:24.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:51:29.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:52:09.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:52:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:52:31.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 01:52:34.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:52:37.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:52:58.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 01:53:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Peaceful]
+[21Jun2025 01:53:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:53:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:53:57.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:54:09.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 has made the advancement [Best Friends Forever]
+[21Jun2025 01:54:25.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:54:28.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:54:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:54:50.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:54:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:55:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 has made the advancement [Best Friends Forever]
+[21Jun2025 01:55:28.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Best Friends Forever]
+[21Jun2025 01:55:34.145] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/17437, l='ServerLevel[world]', x=-342.05, y=119.00, z=742.52]
+[21Jun2025 01:56:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:57:44.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Hot Stuff]
+[21Jun2025 01:58:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 01:59:12.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[21Jun2025 01:59:28.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Im watching you
+[21Jun2025 01:59:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 01:59:36.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:02:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 has made the advancement [Hot Stuff]
+[21Jun2025 02:03:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 has made the advancement [We Need to Go Deeper]
+[21Jun2025 02:03:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Hard]
+[21Jun2025 02:03:42.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[21Jun2025 02:03:44.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 02:03:44.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
+[21Jun2025 02:03:45.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 02:03:45.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:03:46.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 02:03:46.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [We Need to Go Deeper]
+[21Jun2025 02:03:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 has made the advancement [We Need to Go Deeper]
+[21Jun2025 02:03:46.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smiler_still but it was marked as removed already
+[21Jun2025 02:03:46.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
+[21Jun2025 02:03:46.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:03:46.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:shilouette_still_night but it was marked as removed already
+[21Jun2025 02:03:46.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 02:03:46.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:preacherstill but it was marked as removed already
+[21Jun2025 02:03:46.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:03:46.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:03:47.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:03:47.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_still but it was marked as removed already
+[21Jun2025 02:03:47.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:03:47.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:03:48.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:door_opening but it was marked as removed already
+[21Jun2025 02:03:48.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 02:03:48.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:03:48.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:04:12.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF was slain by Preacher
+[21Jun2025 02:04:17.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:04:17.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:torch_destroying but it was marked as removed already
+[21Jun2025 02:04:19.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:04:21.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:04:23.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 02:04:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyxd_1401 tried to swim in lava
+[21Jun2025 02:04:38.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:04:41.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:04:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 tried to swim in lava to escape Itz_Jusebg_FpF
+[21Jun2025 02:04:57.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:05:01.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:05:01.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:05:03.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:05:08.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:05:08.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:05:14.191] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_silhouette:silhouette_ceiling but it was marked as removed already
+[21Jun2025 02:05:34.289] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:06:23.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:06:28.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ranma_158 was slain by Itz_Jusebg_FpF
+[21Jun2025 02:06:41.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:06:46.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity scopophobia_reimagined_new_:smilerstilldespawnwhenlookat but it was marked as removed already
+[21Jun2025 02:06:51.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:06:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[21Jun2025 02:07:19.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[21Jun2025 02:08:28.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[21Jun2025 02:08:36.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:08:38.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:jumpscare but it was marked as removed already
+[21Jun2025 02:08:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: The difficulty has been set to Peaceful]
